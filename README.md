@@ -2,7 +2,7 @@
 - 👀 I’m interested in Scratch !
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Scratch coding !
-- 📫 How to reach me on Discord : -start#0927
+- 📫 How to reach me on Discord : startFX
 
 <!---
 startFX/startFX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

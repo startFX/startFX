@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @startFX
-- 👀 I’m interested in Scratch !
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Scratch coding !
-- 📫 How to reach me on Discord : startFX
+i'm startFX
+
+ummm...
+
+i make music, i code sometimes
+i like minecraft and modding minecraft
+i do pixel art
 
 <!---
 startFX/startFX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

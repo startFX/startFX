@@ -3,8 +3,8 @@ i'm startFX
 ummm...
 
 i make music, i code sometimes
-i like minecraft and modding minecraft
-i do pixel art
+
+i like minecraft and pytho
 
 <!---
 startFX/startFX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
